@@ -1,0 +1,5 @@
+# Never add local configuration or secrets to this public site.
+.env
+.env.*
+*.log
+__pycache__/
